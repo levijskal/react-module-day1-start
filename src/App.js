@@ -6,6 +6,16 @@ class App extends Component {
     return (
       <div className="App">
         <h1> Hello Ironhackers! </h1>
+
+
+        <div>
+          <h3>List of animal</h3>
+
+          <ul>
+            <li>Animal</li>
+          </ul>
+          
+        </div>
       </div>
     );
   }
